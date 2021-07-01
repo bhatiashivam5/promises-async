@@ -1,0 +1,14 @@
+[
+    {
+        "emp_name":"Shivam Bhatia",
+        "emp_id":"101",
+        "Address":"Chandigarh"
+    },
+    
+    {
+        "emp_name":"Manik Kashyap",
+        "emp_id":"102",
+        "Address":"Mohali"
+    }
+    
+]
